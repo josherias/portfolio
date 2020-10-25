@@ -1,0 +1,14 @@
+@font-face {
+  font-family: oswald;
+  src: url(./fonts/Oswald-Bold.ttf);
+}
+
+@font-face {
+  font-family: pt;
+  src: url(./fonts/PT_Sans-Web-Bold.ttf);
+}
+
+@font-face {
+  font-family: pt-regular;
+  src: url(./fonts/PT_Sans-Web-Regular.ttf);
+}
